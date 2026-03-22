@@ -19,6 +19,28 @@ IntelliJ IDEA: JetBrains [jetbrains.com](https://www.jetbrains.com/idea/download
 
 Adaptación ARM64: Comunidad de Termux y HomuHomu833
 
+---
 
+# ⚖️ Descargo de Responsabilidad (Disclaimer)
+
+[!CAUTION]
+Uso bajo su propio riesgo: Este proyecto es una guía comunitaria y no oficial. El autor no se hace responsable de cualquier pérdida de datos, daños en el hardware o problemas de software derivados del seguimiento de estas instrucciones.
+
+Notas sobre marcas registradas:
+
+Android Studio es una marca registrada de Google LLC.
+
+IntelliJ IDEA es una marca registrada de JetBrains s.r.o.
+
+Este repositorio no está afiliado, patrocinado ni respaldado por Google, JetBrains ni ninguna de sus subsidiarias.
+
+El uso de los binarios de IntelliJ IDEA para parchear Android Studio se realiza con fines de interoperabilidad en arquitecturas ARM64 no soportadas oficialmente. El usuario es responsable de cumplir con los Términos de Servicio de Android Studio.
+
+---
+## ⚖️ Licencia
+
+Este proyecto está bajo la Licencia **Apache 2.0**. Puedes usar, estudiar, modificar y distribuir este material libremente, siempre que se mantenga el aviso de derechos de autor original. 
+
+Para más detalles, consulta el archivo [LICENSE](LICENSE) adjunto en este repositorio.
 
 
