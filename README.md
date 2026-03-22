@@ -1,4 +1,5 @@
 # android-studio-termux-arm64
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 ## 🌟 Introducción
 
 Correr **Android Studio** en dispositivos móviles ha sido durante mucho tiempo un desafío debido a las limitaciones de arquitectura (**ARM64**) y la falta de soporte oficial para Linux en Android. 
