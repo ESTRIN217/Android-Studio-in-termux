@@ -11,9 +11,9 @@ Software: Un entorno Linux instalado en Termux (PRoot o Chroot) como Ubuntu o De
 ## 🛠️ Paso 1: Descarga de Componentes
 Necesitaremos ambos paquetes para realizar un "híbrido" funcional.
 
-Android Studio (Linux de 64 bits): #https://developer.android.com/studio?hl=es-419 Descargar aquí
+Android Studio (Linux de 64 bits):  [Descargar aquí](https://developer.android.com/studio?hl=es-419)
 
-IntelliJ IDEA Community (Linux ARM64): #https://www.jetbrains.com/idea/download/ Descargar aquí
+IntelliJ IDEA Community (Linux ARM64): [Descargar aquí](https://www.jetbrains.com/idea/download/)
 
 Nota crítica: Asegúrate de descargar la versión Linux ARM64 de IntelliJ, no la de Windows.
 
